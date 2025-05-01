@@ -1,1 +1,7 @@
-# geant4
+Physics process for surface reflection is available by 
+including "RefConstructor" in your physics list.
+You can see example to include in "MyPhysicsList", which 
+is based on the physics list "QGSP_BIC_HP"
+
+The boundary surface restriction in "Reflection" should be 
+arranged for your reflection.
